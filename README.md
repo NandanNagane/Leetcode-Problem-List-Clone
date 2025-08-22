@@ -22,7 +22,7 @@ This is a **frontend showcase project** where I explored **React, shadcn, Tailwi
 - 🎨 **Modern UI**  
   Built with **shadcn**, **TailwindCSS**, and some custom components  
 
-- ⚡ **Context Providers**  
+- ⚡ **Jotai State Management Library**  
   For global state management across lists  
 
 ---
@@ -32,7 +32,7 @@ This is a **frontend showcase project** where I explored **React, shadcn, Tailwi
 - ⚛️ **React (Vite)**  
 - 🎨 **shadcn/ui + TailwindCSS**  
 - 🖱️ **@dnd-kit** (for drag & drop)  
-- 🔗 **Context API** (for state management)  
+- 🔗 **Jotai State Management Library** (for state management)  
 
 ---
 
@@ -57,7 +57,7 @@ This is a **frontend showcase project** where I explored **React, shadcn, Tailwi
 This project helped me strengthen my understanding of:  
 
 - ✅ Component-driven development  
-- ✅ Context Providers in React  
+- ✅ Jotai State Management Library 
 - ✅ Working with shadcn + TailwindCSS  
 - ✅ Drag & Drop interactions with @dnd-kit  
 - ✅ Structuring UI/UX for coding platforms  
