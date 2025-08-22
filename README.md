@@ -1,99 +1,98 @@
-🚀 Problem List Clone (Mini Project)
+# 🚀 Problem List Clone (Mini Project)
 
-A mini-project inspired by online coding platforms (like LeetCode/GFG), focusing on the Problem List section.
-This is a frontend showcase project where I explored React, shadcn, TailwindCSS, and drag & drop with @dnd-kit.
+A mini-project inspired by online coding platforms (like LeetCode/GFG), focusing on the **Problem List section**.  
+This is a **frontend showcase project** where I explored **React, shadcn, TailwindCSS, and drag & drop with @dnd-kit**.  
 
-✨ Features
+---
 
-📂 Dynamic Lists
+## ✨ Features
 
-Create Private / Public / Global lists
+- 📂 **Dynamic Lists**  
+  Create **Private / Public / Global** lists  
 
-➕ Add Questions Modal
+- ➕ **Add Questions Modal**  
+  Add questions to a specific list (stored contextually)  
 
-Add questions to a specific list (stored contextually)
+- 🎛️ **Custom Dropdowns**  
+  UI built, functionality WIP 🚧  
 
-🎛️ Custom Dropdowns
+- 🖱️ **Drag & Drop**  
+  Reorder questions in a list with `@dnd-kit`  
 
-UI built, functionality WIP 🚧
+- 🎨 **Modern UI**  
+  Built with **shadcn**, **TailwindCSS**, and some custom components  
 
-🖱️ Drag & Drop
+- ⚡ **Context Providers**  
+  For global state management across lists  
 
-Reorder questions in a list with @dnd-kit
+---
 
-🎨 Modern UI
+## 🛠️ Tech Stack
 
-Built with shadcn, TailwindCSS, and some custom components
+- ⚛️ **React (Vite)**  
+- 🎨 **shadcn/ui + TailwindCSS**  
+- 🖱️ **@dnd-kit** (for drag & drop)  
+- 🔗 **Context API** (for state management)  
 
-⚡ Context Providers
+---
 
-For global state management across lists
+## 📸 Screenshots
 
-🛠️ Tech Stack
-
-React (Vite) ⚛️
-
-shadcn/ui + TailwindCSS 🎨
-
-@dnd-kit (for drag & drop) 🖱️
-
-Context API (for state management) 🔗
-
-📸 Screenshot
-
-- Problem List Page  
+- **Problem List Page**  
   ![Problem List Page](/frontend/src/assets/screenshot1.png)
 
-- Add Questions Modal  
+- **Add Questions Modal**  
   ![Add Questions Modal](/frontend/src/assets/screenshot2.png)
 
-- Create New List Modal  
+- **Create New List Modal**  
   ![Create New List Modal](/frontend/src/assets/screenshot4.png)
 
-- Drag & Drop in Action  
+- **Drag & Drop in Action**  
   ![Drag & Drop](/frontend/src/assets/screenshot3.png)
 
+---
 
-📚 Learnings
+## 📚 Learnings
 
-This project helped me strengthen my understanding of:
+This project helped me strengthen my understanding of:  
 
-✅ Component-driven development
+- ✅ Component-driven development  
+- ✅ Context Providers in React  
+- ✅ Working with shadcn + TailwindCSS  
+- ✅ Drag & Drop interactions with @dnd-kit  
+- ✅ Structuring UI/UX for coding platforms  
 
-✅ Context Providers in React
+---
 
-✅ Working with shadcn + TailwindCSS
+## 🎯 About This Project
 
-✅ Drag & Drop interactions with @dnd-kit
+- 🚧 This is **not a full-stack project** (yet).  
+- 🌱 Currently, I’m learning the **MERN stack** and going deeper into **React**.  
+- 💡 The goal of this project is to **showcase my frontend skills** and practice building real-world-like features.  
 
-✅ Structuring UI/UX for coding platforms
+---
 
-🎯 About This Project
+## 🤝 Contributions
 
-🚧 This is not a full-stack project (yet).
+This is a **personal learning project** – but feedback & suggestions are welcome!  
 
-🌱 Currently, I’m learning the MERN stack and going deeper into React.
+---
 
-💡 The goal of this project is to showcase my frontend skills and practice building real-world-like features.
+## 🔮 Next Steps (Future Enhancements)
 
-🤝 Contributions
+- 🖊️ Make dropdown buttons functional  
+- 🔗 Backend integration with Node/Express + MongoDB  
+- 📝 Persisting lists & questions  
+- 🔒 Authentication (for private lists)  
 
-This is a personal learning project – but feedback & suggestions are welcome!
+---
 
-🔮 Next Steps (Future Enhancements)
+## 👨‍💻 Author
 
-🖊️ Make dropdown buttons functional
+**Nandan Nagane**  
+🌐 Exploring Web Dev + MERN + AI/ML  
+📌 2026 Software Engineering Graduate  
 
-🔗 Backend integration with Node/Express + MongoDB
+---
 
-📝 Persisting lists & questions
-
-🔒 Authentication (for private lists)
-
-👨‍💻 Author
-
-Nandan Nagane
-🌐 Exploring Web Dev + MERN + AI/ML
-📌 2026 Software Engineering Graduate
-
-✨ If you liked this project, consider giving it a ⭐ on GitHub!
+✨ If you liked this project, consider giving it a ⭐ on GitHub!  
